@@ -1,0 +1,135 @@
+
+SYSTEM:
+
+Generate a highly realistic, photorealistic 16:9 image illustrating.
+The scene must be clear, visually rich, and immersive, with a focus on realistic textures, lighting, and atmosphere.
+No readable text, no visible labels, no lamps, no desk lamps, and no additional elements unrelated to the main scene.
+Avoid cluttered backgrounds. Prioritize a clean, focused composition that highlights the core subject naturally and realistically.
+
+
+
+USER:
+
+1. Close-up of a handmade bookstore sign that reads "NO PHOTOGRAPHY PLEASE", hanging from a shelf filled with comics. Use shallow depth of field, blurred colorful background, warm lighting, and soft lens flare effects. Cozy and vintage shop atmosphere.
+
+2. Abstract long exposure photograph of colorful neon lights in motion. Use chaotic swirls and streaks in red, yellow, blue, green, and orange against a dark background. High-energy, glowing, light painting style.
+
+3. Retro neon sign with glowing red and white "Thank You!" text, mounted on a worn concrete wall. Use vintage lighting, distressed textures, and moody ambiance. Dim background with subtle shadows and nostalgic vibe.
+
+4. Futuristic humanoid wearing a teal hoodie and a dark helmet with two glowing circular eyes. Use dramatic lighting and cyberpunk aesthetic with a plain, dark teal background. Tech-inspired, sci-fi character portrait.
+
+5. A smiling man in a mustard yellow suit, green pocket square, and patterned tie holding a banana-shaped phone. Bright yellow background, exaggerated facial expression, retro fashion, surreal and quirky mood.
+
+6. Small fluffy dog wearing party sunglasses and a colorful birthday hat, sitting confidently against a solid yellow background. Studio lighting, playful expression, minimal background. Celebration theme, fun and cheerful.
+
+7. Portrait of a boxer dog with serious expression wearing oversized red boxing gloves. Use soft lighting, centered composition, pastel teal background. Comedic but bold, studio pet photography style.
+
+8. Colorful cartoon-style car with a massive plastic bull's head and pink-yellow horns mounted on its front hood. Parked in a narrow brick alley with a pastel and surreal paint job in blue, purple, and pink.
+
+9. Square pumpkin face made entirely of orange-yellow-white candy corn, arranged on a bright orange background. Use playful Halloween styling, symmetrical layout, and candy-themed minimalism.
+
+10. Cool chinchilla wearing bright yellow sunglasses with pink-purple lenses, posed confidently against a gradient background from orange to hot pink. Studio lighting, portrait style, fun and summery aesthetic.
+
+
+
+11. A stylish young person wearing round sunglasses and a cap, sitting in the driver's seat of a vintage car, with a confident cat in the passenger seat. Black and white photo, retro vibe.
+
+12. Close-up of a person's eye and cheek covered in colorful glitter and confetti, with blue eye shadow and soft lighting, dreamy and artistic mood.
+
+13. A bright, retro-style living room with a plush orange armchair, yellow walls, pink curtains, modern abstract art, green carpet, and a glowing teal floor lamp. Vibrant color palette, geometric composition.
+
+14. A cool tabby cat wearing pink sunglasses and a shiny magenta jacket, sitting on a bed with neon blue and pink lights. Cyberpunk, synthwave aesthetic.
+
+15. A dirty, painted industrial power switch mounted on a worn concrete wall. Urban texture, gritty aesthetic, macro shot.
+
+16. A golden retriever puppy wearing stylish sunglasses, sitting on a beach during a tropical sunset with palm leaves in the foreground. Warm tones, summer vacation vibes.
+
+17. A duck character wearing a doctor’s white lab coat, orange shirt, teal bowtie, and oversized glasses. Bright background, cheerful expression, stylized.
+
+18. A gorilla wearing a red patterned streetwear tracksuit, black headphones, and a matching red beanie. Moody lighting, serious pose, urban cool vibe.
+
+19. A close-up portrait of a man with a long beard, partially covered in pink and white daisies. Dark background, floral surrealism, intimate and creative.
+
+20. A flying squirrel dressed like a vintage pilot, with brown leather helmet and aviator goggles, sitting confidently in a small aircraft. Sunlit outdoor setting, whimsical and adventurous.
+
+
+
+
+
+21. A vibrant autumn scene with fallen leaves on the ground, one yellow-orange maple leaf in the center with a smiley face drawn on it, surrounded by richly colored red, green, and brown leaves, soft natural lighting, shallow depth of field, high detail
+
+22. A small dog with large eyes wearing black-rimmed glasses, a yellow knitted beanie, and a blue sweater, outdoors in a soft-focus park setting with autumn tones, high detail, whimsical and warm
+
+23. A vintage bathroom with walls completely covered in old newspaper and magazine pages, featuring a white sink, mirrored panels, and dark soap dispensers, moody lighting, grunge and retro aesthetic
+
+24. A small orange traffic cone with big cartoonish googly eyes and a smiling face, placed on a wet street in a city, colorful bokeh background lights, whimsical, high-resolution
+
+25. A person sitting on a pastel pink glossy couch, wearing a futuristic holographic bodysuit and shiny yellow high-heeled boots, ultra-modern style, glowing reflections, high fashion editorial lighting
+
+26. A mysterious figure dressed as a headless scarecrow with a long coat, running through a dried cornfield surrounded by flying crows, overcast sky, cinematic horror aesthetic
+
+27. A woman standing against a pink background wearing colorful ribbed leg warmers in orange, pink, purple, and red, paired with shiny pink high heels, fashion photography, playful and colorful
+
+28. A fluffy kitten with blue eyes sitting inside a bright pink flower pot surrounded by colorful paper flowers in shades of yellow, orange, green, and pink, vibrant and cheerful setup, orange backdrop
+
+29. A female hand with blue-painted nails reaching for crumpled dollar bills on a concrete floor, two dice scattered nearby, gritty urban atmosphere, natural shadows and high detail
+
+30. A brightly colored orange and black frog with shiny textured skin, sitting on a wet surface with water droplets flying around, close-up macro shot, neon lighting, dramatic contrast
+
+
+
+
+31. deserted office building wall, old red arrow sign labeled "OFFICE", dry vines creeping up the wall, muted beige tones, minimalistic urban decay, cinematic
+
+32. vibrant glowing lightbulb on reflective surface, swirling filament, colorful neon background with gradients of pink, blue, orange, dark moody lighting, studio setup
+
+33. vintage rusty sign reading "MUSEUM" against a bright blue sky, angled view, mid-century Americana aesthetic, urban signage, retro tones, isolated structure
+
+34. realistic parrot pirate in ornate costume, tricorne hat, golden buttons, leather straps, fierce expression, dark studio lighting, hyper-detailed feathers and textures
+
+35. stacked pumpkin scarecrow in a field, smiling jack-o-lantern face, burlap hat, straw arms, autumn background, warm tones, shallow depth of field, cozy Halloween aesthetic
+
+36. green superhero punching comic chalkboard with POW bubble, toy-like hand, school chalkboard background, action scene in playful comic style
+
+37. bald man with a white rabbit sitting on his head, studio portrait, intense eye contact, warm muted background, surreal humor, minimal lighting
+
+38. cute puppy in reindeer hat, cozy Christmas setting, fairy lights and warm bokeh in background, sitting on fluffy rug, holiday atmosphere, shallow depth of field
+
+39. serious-looking orange tabby cat in business suit and red tie, seated at an office desk, corporate background with glass windows, anthropomorphic boss cat
+
+40. child in vintage orange space suit sitting in grassy forest, watching an old-fashioned CRT television, whimsical retro-futurism, surreal dreamscape, soft color grading
+
+
+
+
+
+41. A person with voluminous, multicolored curly hair wears a turquoise shirt and oversized retro-futuristic VR goggles with a red tint, while excitedly yelling or laughing.
+
+42. A vintage-style robot with a boxy monitor head is shown against a dual-toned pink and mint green background. Its surface appears metallic and aged.
+
+43. A pastel-themed portrait of a woman with fluffy pink hair and large round goggles stands in a field of vibrant yellow mushrooms, evoking a dreamy, surreal setting.
+
+44. A close-up of playful candy-decorated sneakers scattered among colorful sweets on a pink background, creating a fun and whimsical candyland aesthetic.
+
+45. A humorous image of a toad with realistic textures sits calmly under a large red and white mushroom cap as if wearing it like a hat, against a dark backdrop.
+
+46. A figure in sleek black clothing with a vintage CRT television for a head sits cross-legged on a red armchair, posed in front of a bright orange wall.
+
+47. A small child with a serious or sad expression stands amid colorful confetti and streamers, contrasting their mood with the festive environment.
+
+48. A futuristic profile of a person wearing glowing neon VR visor glasses, bathed in pink and blue lighting, suggesting a high-tech or cyberpunk theme.
+
+49. A quirky image of someone standing inside a brightly colored vintage television shell — pink, yellow, and silver — with only their legs and sneakers visible.
+
+50. A black cat dressed in a witch hat sits beside carved pumpkins and candlelight, evoking a cozy Halloween night scene with a touch of mystery.
+
+
+
+
+51. This is a close-up, side profile photograph of a young woman’s face, richly covered in colorful confetti and glitter.
+The visual style is vibrant and dreamy, with an emphasis on texture and light. Here’s a breakdown of the elements:
+Focus: The sharp focus is on her eye—a soft greenish hue with visible lashes—framed dramatically by shimmery turquoise eye shadow.
+Confetti and Glitter: The entire face is densely layered with multicolored particles—tiny circular and hexagonal pieces in shades of red, blue, gold, white, and pink, giving a surreal and festive look.
+Lighting: The light is soft and diffused, enhancing the reflective sparkle of the glitter and lending a bokeh effect to the background. The result is a dreamlike, ethereal atmosphere.
+Mood: There’s a playful, artistic, and slightly magical vibe to the image, suggesting celebration or fashion editorial styling.
+Background: The background is out of focus and features soft, circular bokeh lights in complementary tones—teal, pink, and purple—adding to the whimsical feel.
